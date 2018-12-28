@@ -8,8 +8,8 @@ using Rb.Forms.Barcode.Droid;
 using Rb.Forms.Barcode.Droid.Camera;
 using Rb.Forms.Barcode.Droid.Logger;
 using Rb.Forms.Barcode.Droid.View;
-using Rb.Forms.Barcode.Pcl;
-using Rb.Forms.Barcode.Pcl.Logger;
+using Rb.Forms.Barcode.Standard;
+using Rb.Forms.Barcode.Standard.Logger;
 using Xamarin.Forms;
 using Xamarin.Forms.Platform.Android;
 

@@ -386,9 +386,6 @@
           "build/Xamarin.Forms.props": {},
           "build/Xamarin.Forms.targets": {}
         }
-      },
-      "Rb.Forms.Barcode.Pcl/1.0.0": {
-        "type": "project"
       }
     }
   },
@@ -2741,11 +2738,6 @@
         "xamarin.forms.3.4.0.1008975.nupkg.sha512",
         "xamarin.forms.nuspec"
       ]
-    },
-    "Rb.Forms.Barcode.Pcl/1.0.0": {
-      "type": "project",
-      "path": "../../Rb.Forms.Barcode.Pcl/Rb.Forms.Barcode.Pcl.csproj",
-      "msbuildProject": "../../Rb.Forms.Barcode.Pcl/Rb.Forms.Barcode.Pcl.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -2759,7 +2751,6 @@
     "C:\\Users\\TonhaoSemAcento\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.0.0",
     "restore": {
       "projectUniqueName": "E:\\Repos\\rb-forms-barcode\\Sample\\Sample.Pcl\\Sample.Pcl.csproj",
       "projectName": "Sample.Pcl",
@@ -2776,15 +2767,6 @@
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {},
         "https://nugetized.blob.core.windows.net/live-reload/index.json": {}
-      },
-      "frameworks": {
-        "portable46-net451+win81": {
-          "projectReferences": {
-            "E:\\Repos\\rb-forms-barcode\\Rb.Forms.Barcode.Pcl\\Rb.Forms.Barcode.Pcl.csproj": {
-              "projectPath": "E:\\Repos\\rb-forms-barcode\\Rb.Forms.Barcode.Pcl\\Rb.Forms.Barcode.Pcl.csproj"
-            }
-          }
-        }
       }
     },
     "dependencies": {

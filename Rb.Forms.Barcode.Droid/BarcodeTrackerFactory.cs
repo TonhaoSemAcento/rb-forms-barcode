@@ -1,6 +1,6 @@
 ﻿using System;
 using Android.Gms.Vision;
-using Rb.Forms.Barcode.Pcl;
+using Rb.Forms.Barcode.Standard;
 using JObject = Java.Lang.Object;
 
 namespace Rb.Forms.Barcode.Droid

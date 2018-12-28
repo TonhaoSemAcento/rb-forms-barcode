@@ -1,5 +1,5 @@
 ﻿using System;
-using Rb.Forms.Barcode.Pcl.Logger;
+using Rb.Forms.Barcode.Standard.Logger;
 
 namespace Rb.Forms.Barcode.Droid.Logger
 {
